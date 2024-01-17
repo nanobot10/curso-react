@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Dennis",
+      "empresa": "Mango Chango",
+      "email": "c.alejandro17@gmail.com",
+      "telefono": "56373480",
+      "notas": "hola",
+      "id": 1
+    }
+  ]
+}
